@@ -1,6 +1,6 @@
 ---
 title: Ma title
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: test
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
