@@ -1,19 +1,117 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+<header>
+	<div class="uk-offcanvas-content">
+		<nav class="uk-navbar-container" uk-navbar>
+			<div class="uk-navbar-right">
+				<div class="uk-container">
+					<ul class="uk-navbar-nav uk-visible@m">
+						<li>
+							<a href="/">Accueil</a>
+						</li>
+						<li>
+							<a href="/sophrologie">La sophrologie</a>
+						</li>
+						<li>
+							<a href="#">Particuliers</a>
+							<div class="uk-navbar-dropdown" uk-dropdown="offset: 0">
+								<ul class="uk-nav uk-navbar-dropdown-nav">
+									<li>
+										<a href="">Sophrologie en pratique</a>
+									</li>
+									<li>
+										<a href="">Indications en sophrologie</a>
+									</li>
+									<li>
+										<a href="">Accompagner la maladie</a>
+									</li>
+									<li>
+										<a href="">Ateliers de sophrologie</a>
+									</li>
+									<li>
+										<a href="">Tarifs</a>
+									</li>
+								</ul>
+							</div>
+						</li>
+						<li>
+							<a href="#">Professionnels</a>
+							<div class="uk-navbar-dropdown" uk-dropdown="offset: 0">
+								<ul class="uk-nav uk-navbar-dropdown-nav">
+									<li>
+										<a href="">Sophrologie en entreprise</a>
+									</li>
+									<li>
+										<a href="">Tarifs sophrologie entreprise</a>
+									</li>
+								</ul>
+							</div>
+						</li>
+						<li>
+							<a href="">Votre sophrologue</a>
+						</li>
+						<li>
+							<a href="">Contact</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<div id="offcanvas-nav" uk-offcanvas="mode: slide">
+			<div class="uk-offcanvas-bar">
+				<button class="uk-offcanvas-close" type="button" uk-close></button>
 
-	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
+				<ul class="uk-nav uk-nav-default">
+					<li>
+						<a href="" to="/">Accueil</a>
+					</li>
+					<li>
+						<a href="" to="/sophrologie">La sophrologie</a>
+					</li>
+					<li class="uk-parent">
+						<a href="#">Particuliers</a>
+						<ul class="uk-nav-sub">
+							<li>
+								<a href="">Sophrologie en pratique</a>
+							</li>
+							<li>
+								<a href="">Indications en sophrologie</a>
+							</li>
+							<li>
+								<a href="">Accompagner la maladie</a>
+							</li>
+							<li>
+								<a href="">Ateliers de sophrologie</a>
+							</li>
+							<li>
+								<a href="">Tarifs</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">Professionnels</a>
+						<ul class="uk-nav-sub">
+							<li>
+								<a href="">Sophrologie en entreprise</a>
+							</li>
+							<li>
+								<a href="">Tarifs sophrologie entreprise</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="">Votre sophrologue</a>
+					</li>
+					<li>
+						<a href="">Contact</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<a uk-navbar-toggle-icon="" href="#" rel="nofollow" uk-toggle="target: #offcanvas-nav" class="uk-navbar-toggle uk-hidden@m uk-navbar-toggle-icon uk-icon">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" ratio="1">
+			<rect y="9" width="20" height="2"></rect>
+			<rect y="3" width="20" height="2"></rect>
+			<rect y="15" width="20" height="2"></rect>
+		</svg>
 	</a>
-
-	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
-
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
-
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
-
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul>
-
-</nav>
+</header>

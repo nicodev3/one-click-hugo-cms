@@ -1,14 +1,15 @@
 {{ partial "head" . }}
 
 {{ partial "nav" . }}
-
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
-
-{{ partial "short-text" .Params.blurb}}
-
-{{ partial "2-up" .Params }}
-
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+<div class="home-hero">
+    <span class="home-hero__word">Prévenir et gérer le stress</span>
+    <span class="home-hero__word">Mieux vivre les étapes de sa vie</span>
+    <span class="home-hero__word">Préparer les examens</span>
+    <span class="home-hero__word">Prévenir le burn-out</span>
+    <span class="home-hero__word">Bien vivre la matérnité</span>
+    <span class="home-hero__word">Accompagner la maladie</span>
+    <a href="#scroll_to_1" class="home-scroll-icon" uk-scroll><span uk-icon="icon: arrow-down; ratio: 2"></span></a>
+</div>
 
 {{ partial "blog" . }}
 

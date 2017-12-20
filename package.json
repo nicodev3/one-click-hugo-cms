@@ -54,6 +54,7 @@
     "gulp-inject": "^4.2.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
-    "svg-sprite-loader": "^0.1.2"
+    "svg-sprite-loader": "^0.1.2",
+    "uikit": "^3.0.0-beta.35"
   }
 }
