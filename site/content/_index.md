@@ -15,6 +15,6 @@ intro:
     playing with balls of wool but have secret plans lies down . Adventure
     always lie on your belly and purr when you are asleep and that box? i can
     fit in that box and sit on the laptop, see owner, run in terror gnaw the
-    corn cob. Plop down in the middle where everybody walks eat grass, throw
+    corn cob. Plop down in the middle where everybody walks eat grass
 ---
 
