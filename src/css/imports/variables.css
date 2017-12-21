@@ -1,0 +1,12 @@
+:root {
+    --color-white: #fff;
+    --color-yellow: HSLA(54, 68%, 54%, .6);
+}
+
+.u-no-underline {
+    text-decoration: none;
+}
+
+.u-no-underline:hover {
+    text-decoration: none !important;
+}

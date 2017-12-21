@@ -1,19 +1,10 @@
-<div class="bg-off-white pv4">
-	<div class="ph3 mw7 center">
-
-		<h2 class="f2 b lh-title mb3">Latest stories</h1>
-
-		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range where .Data.Pages "Type" "post" }}
-				<div class="ph1-ns w-50-ns flex">
-					{{ .Render "li" }}
-				</div>
-			{{ end }}
-		</div>
-
-		<div class="tc">
-			<a href="/post" class="btn raise">Read more</a>
-		</div>
-
-	</div>
+<div class="last-posts">
+    <h2 class="uk-h2">Derniers articles</h2>
+    {{ range where .Data.Pages "Type" "post" }}
+    <div class="last-posts__post uk-card uk-card-secondary uk-card-body uk-card-hover uk-margin-bottom">
+        {{ .Render "li" }}
+    </div>
+    {{ end }}
+    <a href="/post" class="uk-button uk-button-primary">Tous les articles</a>
 </div>
+

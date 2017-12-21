@@ -1,5 +1,5 @@
 @import "../../node_modules/uikit/dist/css/uikit.min.css";
-
+@import "./imports/variables.css";
 .home-hero {
     height: 90vh;
     background: url("/img/home-hero.jpeg") no-repeat 0 0 / cover;
@@ -12,7 +12,7 @@
 }
 
 .home-hero__word {
-    background-color: HSLA(54, 68%, 54%, .6);
+    background-color: var(--color-yellow);
     border-radius: 25px;
     padding: .2rem 1rem;
 }
@@ -23,7 +23,7 @@
     right: 0;
     bottom: 3em;
     margin: 0 auto;
-    background-color: #fff;
+    background-color: var(--color-white);
     width: 40px;
     height: 40px;
     border-radius: 50%;
