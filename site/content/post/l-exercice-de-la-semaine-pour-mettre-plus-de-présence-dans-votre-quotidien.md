@@ -2,7 +2,7 @@
 title: ' L''exercice de la semaine pour mettre plus de présence dans votre quotidien :'
 date: 2017-12-21T13:53:55.226Z
 description: Reposez votre esprit le temps de 3 respirations.
-image: /img/aacfe96259bc2dc2abaccaad9ac47c2c.webp
+image: /img/about-single-origin.jpg
 ---
 Chaque jour, aussi souvent que possible, permettez à votre esprit de se reposer. Pendant la durée de 3 profondes respirations, demandez à vos voix intérieures de se taire. Ensuite, ouvrez tous vos sens et prenez conscience des couleurs, des odeurs, des sons, du toucher…
 
