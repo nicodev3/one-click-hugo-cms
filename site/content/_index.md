@@ -1,5 +1,5 @@
 ---
-title: Ma title
+title: Sophrologie
 intro:
   heading: Cabinet de Sophrologie Montpellier Arceaux
   text: >-
