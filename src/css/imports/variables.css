@@ -1,6 +1,8 @@
 :root {
-    --color-white: #fff;
+    --color-white: hsla(0, 0%, 98%, 1);
     --color-yellow: HSLA(54, 68%, 54%, .6);
+    --color-blue: HSLA(197, 27%, 69%, 1.00);
+    --color-light-blue:  HSLA(197, 30%, 90%, 1.00);
 }
 
 .u-no-underline {

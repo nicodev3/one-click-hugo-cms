@@ -10,16 +10,15 @@
     <span class="home-hero__word">Accompagner la maladie</span>
     <a href="#scroll_to_1" class="home-scroll-icon" uk-scroll><span uk-icon="icon: arrow-down; ratio: 2"></span></a>
 </div>
-<div class="uk-container home-container">
+<div class="uk-container uk-container-expand home-container">
     <div uk-grid>
         <main class="uk-width-3-5@m">
-            <h1>lsqdfjk</h1>
+           {{ partial "home-main" . }}
         </main>
         <aside class="uk-width-2-5@m">
             {{ partial "blog" . }}
         </aside>
     </div>
-
 </div>
 
 {{ partial "footer" . }}

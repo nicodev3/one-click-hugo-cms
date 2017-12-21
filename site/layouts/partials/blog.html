@@ -1,10 +1,22 @@
+<div class="actualites">
+    <h2 class="uk-h2"><span uk-icon="icon: calendar; ratio: 2;"></span> Actualités</h2>
+    <div class="uk-card uk-card-default uk-card-body uk-card-hover uk-margin-bottom">
+        <p class="actu">A partir du mois de janvier 2018, démarrage des <strong>nouveaux ateliers de groupe</strong>&nbsp;:
+        </p>
+        <ul>
+            <li>Equilibre Général et Gestion du Stress</li>
+            <li>Gestion des émotions</li>
+        </ul>
+    </div>
+
+</div>
 <div class="last-posts">
-    <h2 class="uk-h2">Derniers articles</h2>
+    <h2 class="uk-h2"><span uk-icon="icon: file-edit; ratio: 2;"></span> Derniers articles</h2>
     {{ range where .Data.Pages "Type" "post" }}
-    <div class="last-posts__post uk-card uk-card-secondary uk-card-body uk-card-hover uk-margin-bottom">
+    <div class="last-posts__post uk-card uk-card-default uk-card-body uk-card-hover uk-margin-bottom">
         {{ .Render "li" }}
     </div>
     {{ end }}
-    <a href="/post" class="uk-button uk-button-primary">Tous les articles</a>
+    <a href="/post" class="uk-button uk-button-default">Tous les articles</a>
 </div>
 

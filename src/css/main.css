@@ -11,6 +11,14 @@
     font-size: 1.2em;
 }
 
+.home-container {
+    margin-top: 3rem;
+}
+
+.home-page-content {
+    padding-right: 20px;
+}
+
 .home-hero__word {
     background-color: var(--color-yellow);
     border-radius: 25px;
@@ -30,4 +38,21 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+aside {
+    background-color: var(--color-light-blue);
+    padding-right: 40px;
+    padding-top: 40px;
+}
+
+aside .uk-h2 {
+    background-color: var(--color-white);
+    padding: .5rem;
+    border-radius: 5px;
+    border: 2px solid var(--color-blue);
+}
+
+.uk-button-cta {
+    background-color: var(--color-yellow);
 }
