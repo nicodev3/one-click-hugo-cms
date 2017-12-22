@@ -12,10 +12,10 @@
 }
 
 .home-container {
-    margin-top: 3rem;
+    margin: 3rem 0;
 }
 
-.home-page-content {
+.home-main-content {
     padding-right: 20px;
 }
 
@@ -55,4 +55,10 @@ aside .uk-h2 {
 
 .uk-button-cta {
     background-color: var(--color-yellow);
+}
+
+.g-footer {
+    padding-top: 3rem;
+    height: 300px;
+    background-color: var(--color-blue);
 }
