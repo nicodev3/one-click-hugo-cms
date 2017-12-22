@@ -99,6 +99,15 @@ aside .uk-h2 {
     background-color: var(--color-blue);
 }
 
-.uk-card-primary {
+.uk-card-primary,
+.uk-section-primary {
     background-color: var(--color-dark-blue);
+}
+
+.uk-section-secondary {
+    background-color: var(--color-yellow);
+}
+
+.uk-label {
+    margin: 0 .4rem;
 }
