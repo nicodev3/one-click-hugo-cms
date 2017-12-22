@@ -13,7 +13,9 @@
 <div class="uk-container uk-container-expand home-container">
     <div uk-grid>
         <main class="uk-width-3-5@m">
-           {{ partial "home-main" . }}
+            {{ partial "short-text" .Params.intro}}
+
+            {{ partial "home-main" . }}
         </main>
         <aside class="uk-width-2-5@m">
             {{ partial "blog" . }}
