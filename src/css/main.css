@@ -104,10 +104,19 @@ aside .uk-h2 {
     background-color: var(--color-dark-blue);
 }
 
-.uk-section-secondary {
+.uk-section-primary-light {
+    background-color: var(--color-light-blue);
+}
+
+.uk-section-secondary,
+.uk-card-secondary {
     background-color: var(--color-yellow);
 }
 
 .uk-label {
     margin: 0 .4rem;
+}
+
+.uk-card-primary .uk-alert-primary {
+    color: #000;
 }
