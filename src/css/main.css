@@ -94,9 +94,23 @@ aside .uk-h2 {
 }
 
 .g-footer {
+    position: relative;
     padding-top: 3rem;
     height: 300px;
-    background-color: var(--color-blue);
+    background-color: var(--color-dark-blue);
+}
+
+.to-top {
+    background-color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 3rem;
+    top: -4rem;
 }
 
 .uk-card-primary,
@@ -119,4 +133,18 @@ aside .uk-h2 {
 
 .uk-card-primary .uk-alert-primary {
     color: #000;
+}
+
+.photo-sophie {
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.photo-sophie img {
+    width: 100%;
+    height: 100%;
 }
