@@ -1,14 +1,69 @@
 {{ partial "head" . }}
 
 {{ partial "nav" . }}
-<div class="home-hero">
-    <span class="home-hero__word">Prévenir et gérer le stress</span>
-    <span class="home-hero__word">Mieux vivre les étapes de sa vie</span>
-    <span class="home-hero__word">Préparer les examens</span>
-    <span class="home-hero__word">Prévenir le burn-out</span>
-    <span class="home-hero__word">Bien vivre la matérnité</span>
-    <span class="home-hero__word">Accompagner la maladie</span>
-    <a href="#scroll_to_1" class="home-scroll-icon" uk-scroll><span uk-icon="icon: arrow-down; ratio: 2"></span></a>
+<div uk-slideshow="animation: push" autoplay="true" autoplay-interval="3500">
+
+    <div class="uk-position-relative uk-visible-toggle uk-light" id="carousel">
+
+        <ul class="uk-slideshow-items">
+            <li>
+                <img src="img/home-hero.jpeg" alt="" uk-cover>
+                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
+                    <h3 class="uk-margin-remove">Prévenir et gérer le stress</h3>
+                    <p class="uk-margin-remove">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </li>
+            <li>
+                <img src="img/home-hero.jpeg" alt="" uk-cover>
+                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
+                    <h3 class="uk-margin-remove">Mieux vivre les étapes de sa vie</h3>
+                    <p class="uk-margin-remove">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </li>
+            <li>
+                <img src="img/home-hero.jpeg" alt="" uk-cover>
+                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
+                    <h3 class="uk-margin-remove">Préparer les examens</h3>
+                    <p class="uk-margin-remove">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </li>
+            <li>
+                <img src="img/home-hero.jpeg" alt="" uk-cover>
+                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
+                    <h3 class="uk-margin-remove">Prévenir le burn-out</h3>
+                    <p class="uk-margin-remove">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </li>
+            <li>
+                <img src="img/home-hero.jpeg" alt="" uk-cover>
+                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
+                    <h3 class="uk-margin-remove">Bien vivre la maternité</h3>
+                    <p class="uk-margin-remove">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </li>
+            <li>
+                <img src="img/home-hero.jpeg" alt="" uk-cover>
+                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center uk-transition-slide-bottom">
+                    <h3 class="uk-margin-remove">Accompagner la maladie</h3>
+                    <p class="uk-margin-remove">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </li>
+        </ul>
+
+        <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+        <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+
+    </div>
+
+    <ul class="uk-dotnav uk-flex-center uk-margin">
+        <li uk-slideshow-item="0"><a href="#">Item 1</a></li>
+        <li uk-slideshow-item="1"><a href="#">Item 2</a></li>
+        <li uk-slideshow-item="2"><a href="#">Item 3</a></li>
+        <li uk-slideshow-item="3"><a href="#">Item 4</a></li>
+        <li uk-slideshow-item="4"><a href="#">Item 5</a></li>
+        <li uk-slideshow-item="5"><a href="#">Item 6</a></li>
+    </ul>
+
 </div>
 <div class="uk-container uk-container-expand home-container">
     <div uk-grid>
@@ -22,5 +77,4 @@
         </aside>
     </div>
 </div>
-
 {{ partial "footer" . }}
