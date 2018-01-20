@@ -1,0 +1,23 @@
+{{ partial "head" . }}
+{{ partial "nav" . }}
+<section class="uk-section">
+    <div class="uk-container uk-container-small">
+        <header class="uk-section-xsmall">
+            <h1 class="uk-h1">Contact</h1>
+        </header>
+        <div class="uk-section-xsmall uk-section-default uk-padding uk-margin-bottom">
+            <form>
+                <div class="uk-margin">
+                    <label for="name">Nom</label>
+                    <input class="uk-input" type="text" id="name" placeholder="Votre nom">
+                </div>
+                <div class="uk-margin">
+                    <label for="prenom">Prénom</label>
+                    <input class="uk-input" type="text" id="prenom" placeholder="Votre prénom">
+                </div>
+                <textarea class="uk-textarea"></textarea>
+            </form>
+        </div>
+    </div>
+</section>
+{{ partial "footer" . }}
