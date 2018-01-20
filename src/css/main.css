@@ -52,6 +52,13 @@ html {
     background-color: var(--color-blue);
 }
 
+@media (min-width: 960px) {
+    .uk-section {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
 .uk-container-small {
     background-color: var(--color-white);
 }
