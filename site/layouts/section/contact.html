@@ -6,16 +6,26 @@
             <h1 class="uk-h1">Contact</h1>
         </header>
         <div class="uk-section-xsmall uk-section-default uk-padding uk-margin-bottom">
-            <form>
+            <form name="contact" data-netlify="true">
                 <div class="uk-margin">
                     <label for="name">Nom</label>
-                    <input class="uk-input" type="text" id="name" placeholder="Votre nom">
+                    <input class="uk-input" type="text" id="name" placeholder="Votre nom" required>
                 </div>
                 <div class="uk-margin">
                     <label for="prenom">Prénom</label>
-                    <input class="uk-input" type="text" id="prenom" placeholder="Votre prénom">
+                    <input class="uk-input" type="text" id="prenom" placeholder="Votre prénom" required>
                 </div>
-                <textarea class="uk-textarea"></textarea>
+                <div class="uk-margin">
+                    <label for="email">Email</label>
+                    <input class="uk-input" type="email" id="email" placeholder="Votre email" required>
+                </div>
+                <div class="uk-margin">
+                    <label for="message">Votre message</label>
+                    <textarea class="uk-textarea" rows="5" placeholder="Votre message" id="message" required></textarea>
+                </div>
+                <div class="uk-margin">
+                    <button type="submit" class="uk-button uk-button-primary">Envoyer</button>
+                </div>
             </form>
         </div>
     </div>
