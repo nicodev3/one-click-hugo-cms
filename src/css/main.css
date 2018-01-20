@@ -155,4 +155,6 @@ aside .uk-h2 {
 
 .uk-navbar-container {
     background-color: var(--color-white) !important;
+    height: 160px;
+    padding-left: 1rem;
 }
