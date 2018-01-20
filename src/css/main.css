@@ -206,3 +206,7 @@ aside .uk-h2 {
 .u-italic {
     font-style: italic;
 }
+
+#map {
+    height: 100%;
+}
