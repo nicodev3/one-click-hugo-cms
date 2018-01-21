@@ -1,7 +1,15 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
+
 <section class="uk-section">
     <div class="uk-container uk-container-small">
+        <div class="ariane uk-padding-remove">
+            <ul class="uk-breadcrumb">
+                <li><a href="/">Accueil</a></li>
+                <li class="uk-disabled"><a href="#">Particuliers</a></li>
+                <li><span>Indications sophrologie</span></li>
+            </ul>
+        </div>
         <header class="uk-section-xsmall">
             <h1 class="uk-h1">Les indications en sophrologie</h1>
             <p>La sophrologie s'adresse à tous ceux qui souhaitent prendre soin d'eux, de leur santé, de leur bien-être,
@@ -34,7 +42,8 @@
                 <div class="uk-card-media-left uk-cover-container">
                     <img src="/img/epanouissement-pro.jpeg" alt="" uk-cover>
                     <div class="uk-overlay uk-overlay-primary uk-position-bottom">
-                        <h2 class="uk-h4 uk-text-uppercase uk-text-center">S'épanouir dans sa vie personnelle et professionnelle</h2>
+                        <h2 class="uk-h4 uk-text-uppercase uk-text-center">S'épanouir dans sa vie personnelle et
+                            professionnelle</h2>
                     </div>
                     <canvas width="600" height="400"></canvas>
                 </div>
@@ -77,7 +86,8 @@
                 <div class="uk-card-media-left uk-cover-container">
                     <img src="/img/etapes-vie.jpeg" alt="" uk-cover>
                     <div class="uk-overlay uk-overlay-primary uk-position-bottom">
-                        <h2 class="uk-h4 uk-text-uppercase uk-text-center">Mieux vivre les différentes étapes de la vie</h2>
+                        <h2 class="uk-h4 uk-text-uppercase uk-text-center">Mieux vivre les différentes étapes de la
+                            vie</h2>
                     </div>
                     <canvas width="600" height="400"></canvas>
                 </div>
@@ -162,6 +172,5 @@
         </div>
     </div>
 </section>
-
 
 {{ partial "footer" . }}

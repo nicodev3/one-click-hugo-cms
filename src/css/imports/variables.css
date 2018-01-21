@@ -1,9 +1,10 @@
 :root {
     --color-white: hsla(0, 0%, 98%, 1);
-    --color-yellow: HSLA(45, 61%, 62%, 1.00);
-    --color-blue: HSLA(197, 27%, 69%, 1.00);
-    --color-dark-blue: HSLA(204, 35%, 34%, 1.00);
-    --color-light-blue:  HSLA(197, 30%, 90%, 1.00);
+    --color-yellow: HSLA(45, 61%, 62%, 1);
+    --color-light-yellow: HSLA(45, 61%, 82%, 1);
+    --color-blue: HSLA(197, 27%, 69%, 1);
+    --color-dark-blue: HSLA(204, 35%, 34%, 1);
+    --color-light-blue:  HSLA(197, 30%, 90%, 1);
 }
 
 .u-no-underline {
