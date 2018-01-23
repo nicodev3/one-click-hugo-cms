@@ -1,5 +1,5 @@
 ---
 title: Sophie Loosveldt
 description: >-
-  Qu'est-ce que la sophrologie
+  Présentation de Sophie Loosveldt, sophrologue à Montpellier.
 ---

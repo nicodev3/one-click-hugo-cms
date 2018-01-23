@@ -1,5 +1,7 @@
 ---
-title: Sophrologie
+title: Sophrologie Montpellier
+description: >-
+  Cabinet de sophrologie Montpellier Arceaux | Sophie Loosveldt, sophrologue | 06 83 71 10 82 
 intro:
   heading: Cabinet de Sophrologie Montpellier Arceaux
   text: >-
