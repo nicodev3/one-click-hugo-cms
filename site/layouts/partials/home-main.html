@@ -6,32 +6,14 @@
             <img src="/img/sophrologie-particuliers.jpeg" alt="">
         </div>
         <div>
-            <div class="uk-card-body uk-card-small">
-                <h2 class="uk-h3">Sophrologie pour les particuliers</h2>
-                <p>Qu'elle soit pratiquée en
-                    <nuxt-link to="/sophrologie-pratique"> séance individuelle ou en groupe</nuxt-link>
-                    , la pratique de la sophrologie permet de développer connaissance de soi sur le chemin
-                    de
-                    l'épanouissement. Découvrez
-                    <nuxt-link to="indications-sophrologie">à qui s'adresse la sophrologie</nuxt-link>
-                    .
-                </p>
-            </div>
+            {{ partial "home-block" .Params.blurb}} 
         </div>
     </div>
     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin-large" uk-grid>
         <div class="uk-card-media-right">
             <img src="/img/sophrologie-professionnels.jpeg" alt="">
         </div>
-        <div class="uk-card-body uk-card-small">
-            <h2 class="uk-h3">Sophrologie pour les professionnels</h2>
-            <p>La
-                <nuxt-link to="/sophrologue-entreprise">sophrologie pour les professionnels</nuxt-link>
-                s'adresse aux entreprises, mais aussi aux maisons de retraites, écoles, établissements
-                de santé et de
-                rééducation. Elle permet d'accompagner les professionnels vers un bien-être au travail.
-            </p>
-        </div>
+        {{ partial "home-block" .Params.blurb }}
     </div>
     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin-large" uk-grid>
         <div class="uk-flex-last@s uk-card-media-right">
@@ -47,7 +29,7 @@
                     Professionnelles de
                     Sophrologie (FEPS)</a>.</p>
             <p>Découvrez le parcours de
-                <nuxt-link to="sophie-loosveldt">Sophie Loosveldt, sophrologue</nuxt-link>
+                <a href="sophie-loosveldt-sophrologue/index.html">Sophie Loosveldt, sophrologue</a>
                 .
             </p>
         </div>
