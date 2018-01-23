@@ -2,7 +2,7 @@
     <div class="uk-container uk-container-medium uk-section-primary">
         <div class="uk-grid-small uk-child-width-expand@s" uk-grid>
             <div>
-                <h2 class="uk-h3 uk-text-center">Plan du site</h2>
+                <h2 class="uk-h3">Plan du site</h2>
                 <nav>
                     <ul class="uk-list">
                         <li><a href="/">Accueil</a></li>
@@ -23,9 +23,43 @@
             </div>
             <div>
                 <h2 class="uk-h3">Sophie Loosveldt, sophrologue</h2>
+                <p>Sophie Loosveldt est sophrologue à Montpellier. Elle reçoit les enfants, adolescents et adultes, pour des séances individuelles ou de groupe. Elle s'adresse également aux professionnels, entreprises ou institutions.</p>
+                <script type='application/ld+json'>
+                    {
+                      "@context": "http://www.schema.org",
+                      "@type": "LocalBusiness",
+                      "name": "Sophie Loosveldt",
+                      "telephone": "+33683711082",
+                      "url": "https://www.sophrologiemontpellierarceaux.com/",
+                      "logo": "https://www.sophrologiemontpellierarceaux.com/img/logo.svg",
+                      "image": "https://www.sophrologiemontpellierarceaux.com/img/sophie-loosveldt-1.jpeg",
+                      "description": "Sophrologue",
+                      "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "31 avenue de l'Ecole d'Agriculture",
+                        "addressLocality": "Montpellier",
+                        "postalCode": "34000",
+                        "addressCountry": "France"
+                      },
+                      "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": "43.6142517",
+                        "longitude": "3.857324800000015"
+                      },
+                      "contactPoint": {
+                        "@type": "ContactPoint",
+                        "telephone": "+33683711082",
+                        "contactType": "reservations"
+                      }
+                    }
+                </script>
             </div>
             <div>
                 <h2 class="uk-h3">Informations utiles</h2>
+                <p><span uk-icon="icon: location"></span> Centre Médical Citymed</p>
+                <p>31 avenue de l'Ecole d'Agriculture</p>
+                <p>34000 Montpellier  </p>
+                <p><span uk-icon="icon: phone"></span> 06 83 71 10 82</p>
 
             </div>
         </div>
@@ -34,8 +68,10 @@
         <img src="/img/sponsors.png" alt="">
     </div>
     <div class="g-footer-copy">
-        <p>Tous droits réservés, Sophie Loosveldt</p>
-        <p><a href="/mentions-legales">Mentions légales</a></p>
+        <div class="uk-container-small uk-flex uk-flex-center uk-flex-middle uk-flex-between">
+            <p class="uk-margin-remove">Tous droits réservés, Sophie Loosveldt</p>
+            <a href="/mentions-legales">Mentions légales</a>
+        </div>
     </div>
     <a href="#" uk-totop uk-scroll class="to-top"></a>
 </footer>
