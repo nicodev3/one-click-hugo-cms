@@ -55,6 +55,7 @@ html {
 
 .uk-section {
     background-color: var(--color-blue);
+    background: url("/img/home-hero.jpeg") no-repeat 0 0 / cover;
 }
 
 @media (min-width: 960px) {
@@ -150,6 +151,7 @@ aside .uk-h2 {
 
 .uk-button-cta {
     background-color: var(--color-yellow);
+    color: #fff;
 }
 
 .to-top {
@@ -185,6 +187,11 @@ aside .uk-h2 {
 
 .uk-label {
     margin: 0 .4rem;
+}
+
+.uk-link,
+a {
+    color: var(--color-yellow);
 }
 
 .uk-card-primary .uk-alert-primary {
