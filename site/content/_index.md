@@ -8,7 +8,7 @@ intro:
     adaptée à vos besoins, pour améliorer votre qualité de vie.
 
 
-    > "Découvrir la Sophrologie, c'est commencer à porter un regard différent
-    sur la vie, plus vaste, plus positif, plus serein..."
+    > Découvrir la Sophrologie, c'est commencer à porter un regard différent sur
+    la vie, plus vaste, plus positif, plus serein...
 ---
 
