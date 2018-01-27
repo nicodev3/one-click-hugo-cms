@@ -5,12 +5,33 @@ html {
     font-family: 'Lato', sans-serif;
 }
 
+.g-logo-mobile {
+    position: absolute;
+    top: 1em;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 100px;
+}
+
+@media (min-width: 500px) {
+    .g-logo-mobile {
+        display: none;
+    }
+
+    .top-bar-infos {
+        margin-top: 0;
+    }
+}
+
+
+
 .top-bar-infos {
     text-align: center;
     font-size: 1.4rem;
     background-color: var(--color-dark-blue);
     color: var(--color-white);
-
+    margin-top: 100px;
     padding: 1rem 0;
 }
 
