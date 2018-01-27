@@ -22,10 +22,10 @@ collections: # A list of collections the CMS should be able to edit
         label: "Page Accueil"
         name: "home"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Intro", name: intro, widget: object, fields: [
-              {label: Heading, name: heading, widget: string},
-              {label: Introduction, name: text, widget: markdown}]}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Intro", name: "intro", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Introduction", name: "text", widget: "markdown"}]}
       - file: "site/content/products/_index.md"
         label: "Products Page"
         name: "products"
