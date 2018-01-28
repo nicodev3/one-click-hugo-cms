@@ -89,8 +89,7 @@ html {
 }
 
 .uk-section {
-    background-color: var(--color-blue);
-    background: url("/img/home-hero.jpeg") no-repeat 0 0 / cover;
+    background: url("/img/sunset.jpg") no-repeat 0 0 / cover;
 }
 
 @media (min-width: 960px) {
@@ -98,6 +97,10 @@ html {
         padding-top: 20px;
         padding-bottom: 20px;
     }
+}
+
+.uk-alert-warning {
+    color: #ff6c1d;
 }
 
 .svg-icon svg {
