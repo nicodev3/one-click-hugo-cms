@@ -20,11 +20,13 @@ html {
     }
 
     .top-bar-infos {
-        margin-top: 0;
+        margin-top: 0 !important;
     }
 }
 
-
+.home-accroche {
+    background-color: var(--color-light-blue);
+}
 
 .top-bar-infos {
     text-align: center;
