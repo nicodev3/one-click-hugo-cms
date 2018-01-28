@@ -21,18 +21,23 @@ html {
 
     .top-bar-infos {
         margin-top: 0 !important;
-        height: 200px;
+        height: 230px;
     }
 }
 
 .home-accroche {
     font-style: italic;
-    color: #fff !important;
+    background-color: #fff;
+    color: var(--color-dark-blue);
+    width: 400px;
+    outline: 1px solid #fff;
+    margin: 0 auto 2em;
+    border-radius: 4px;
 }
 
 .home-accroche,
 .home-accroche span {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
 .top-bar-infos {
