@@ -92,6 +92,11 @@ html {
     background: url("/img/sunset.jpg") no-repeat 0 0 / cover;
 }
 
+.uk-button-cta:hover {
+    color: var(--color-white);
+    opacity: .9;
+}
+
 @media (min-width: 960px) {
     .uk-section {
         padding-top: 20px;
