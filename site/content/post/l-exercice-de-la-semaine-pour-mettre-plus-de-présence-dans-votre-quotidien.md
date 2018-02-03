@@ -1,6 +1,6 @@
 ---
 title: ' L''exercice de la semaine pour mettre plus de présence dans votre quotidien :'
-date: 2017-12-21T13:53:55.226Z
+date: 2017-12-21T14:53:55+01:00
 description: Reposez votre esprit le temps de 3 respirations.
 image: /img/accompagner-maladie.jpeg
 ---
