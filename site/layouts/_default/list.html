@@ -1,16 +1,13 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
-
-{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
-
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range .Data.Pages }}
-          <div class="w-50-ns ph1-ns flex">
+<div class="uk-container">
+    <h1 class="uk-h1">Blog</h1>
+    <div class="uk-child-width-expand@m uk-margin-bottom" uk-grid>
+        {{ range .Data.Pages }}
+        <div class="uk-card-default uk-card-body">
             {{ .Render "li"}}
-          </div>
-      {{ end }}
-  </ul>
+        </div>
+        {{ end }}
+    </div>
 </div>
-
 {{ partial "footer" . }}
