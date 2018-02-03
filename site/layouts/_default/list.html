@@ -1,12 +1,15 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
 <div class="uk-container">
-    <h1 class="uk-h1">Blog</h1>
+    <h1 class="uk-h1">Articles de Sophie Loosveldt, sophrologue</h1>
     <div class="uk-child-width-expand@m uk-margin-bottom" uk-grid>
         {{ range .Data.Pages }}
-        <div class="uk-card-default uk-card-body">
-            {{ .Render "li"}}
+        <div>
+            <div class="uk-card-default uk-card-body">
+                {{ .Render "li"}}
+            </div>
         </div>
+
         {{ end }}
     </div>
 </div>
