@@ -141,7 +141,7 @@ h6 {
 
 .home-hero {
     height: 90vh;
-    background: url("/img/home-hero.jpeg") no-repeat 0 0 / cover;
+    background: url("/img/home-hero.jpg") no-repeat 0 0 / cover;
     position: relative;
     display: flex;
     flex-wrap: wrap;
