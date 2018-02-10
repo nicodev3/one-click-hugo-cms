@@ -1,5 +1,5 @@
 ---
 title: Sophrologie entreprises et collectivités
 description: >-
-  Pratique
+  La sophrologie peut apporter une réponse adaptée pour développer et renforcer les capacités d’action dans le milieu professionnel.
 ---

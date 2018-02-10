@@ -1,5 +1,5 @@
 ---
 title: Modalités entreprises
 description: >-
-  Pratique
+  Modalités d'intervention pour les entreprises & collectivités
 ---
