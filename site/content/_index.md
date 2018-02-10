@@ -3,8 +3,7 @@ title: Sophrologie Montpellier
 intro:
   heading: Cabinet de Sophrologie Montpellier Arceaux
   text: >-
-    Installée au coeur du Centre Médical Citymed, au sein d'une équipe
-    pluridisciplinaire, votre sophrologue vous propose une approche sérieuse,
+    Sophie Loosveldt, sophrologue vous propose une approche sérieuse de la sophrologie,
     adaptée à vos besoins, pour améliorer votre qualité de vie.
 
 
