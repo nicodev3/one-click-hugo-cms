@@ -2,10 +2,11 @@ import React from "react";
 
 export default class PostPreview extends React.Component {
   render() {
-    const {entry, widgetFor} = this.props;
+    const {widgetFor} = this.props;
     return <div>
-      <p>{ entry.getIn(["data", "description"]) }</p>
-      { widgetFor("title") }
+      <div className="cms">
+        { widgetFor("title") }
+      </div>
     </div>;
   }
 }
