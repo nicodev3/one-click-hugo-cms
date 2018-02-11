@@ -22,4 +22,4 @@ collections: # A list of collections the CMS should be able to edit
         label: "Actualités"
         name: "home"
         fields:
-          - {label: "Contenu", name: "body", widget: "markdown"}
+          - {label: "Title", name: "title", widget: "markdown"}

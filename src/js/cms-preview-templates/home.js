@@ -5,7 +5,7 @@ export default class PostPreview extends React.Component {
     const {entry, widgetFor} = this.props;
     return <div>
       <p>{ entry.getIn(["data", "description"]) }</p>
-      { widgetFor("body") }
+      { widgetFor("title") }
     </div>;
   }
 }
