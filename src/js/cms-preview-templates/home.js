@@ -5,7 +5,7 @@ export default class PostPreview extends React.Component {
     const {widgetFor} = this.props;
     return <div>
       <div className="cms">
-        { widgetFor("title") }
+        { widgetFor("body") }
       </div>
     </div>;
   }
