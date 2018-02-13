@@ -1,6 +1,6 @@
 ---
 title: L'exercice de la semaine pour mettre plus de présence dans votre quotidien
-date: 2017-12-21T13:53:55.000Z
+date: 12/21/2017 2:53 PM
 description: Reposez votre esprit le temps de 3 respirations.
 image: /img/accompagner-maladie.jpeg
 ---
@@ -13,3 +13,5 @@ L’esprit ne se repose que lorsque nous sommes capables de fermer cette fonctio
 Alors ne tardez plus, ménagez-vous des petits moments de repos de l’esprit tout au long de la journée.
 
 Lorsque notre esprit est au repos, même le temps de 3 respirations, il retrouve sa clarté et sa fraicheur!
+
+_(Cet exercice est inspiré du livre de Jan Chozen Bays "52 façons de pratiquer la pleine conscience")_
