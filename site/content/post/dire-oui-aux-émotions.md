@@ -8,7 +8,7 @@ description: >-
 
   Accueillir ses émotions, accueillir ce qui est vivant en soi, oui, mais
   comment ?
-image: /img/zohre-nemati-486669-unsplash.jpg
+image: /img/zohre-nemati-.jpg
 ---
 S’il peut nous sembler facile d’accueillir les moments de joie, les bonnes nouvelles, il nous est beaucoup plus difficile d’accueillir une difficulté, un échec, une souffrance ou une émotion désagréable… La première réaction est même plutôt le rejet, et c’est tout à fait compréhensible ! La lutte et la fuite sont les premières réactions déclenchées par notre système d’alarme émotionnel face à une émotion inconfortable. Il fut un temps où notre survie même en dépendait.
 
