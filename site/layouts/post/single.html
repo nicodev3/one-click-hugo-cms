@@ -11,9 +11,7 @@
         <div class="cms mw6">
             <p>{{ .Description }}</p>
             {{ if .Params.image }}
-            <div class="uk-cover-container uk-height-medium">
-                <img src="{{ .Params.image }}" alt="{{ .Title }}"/>
-            </div>
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" class="blog-title-image"/>
             {{ end }}
             {{ .Content }}
         </div>

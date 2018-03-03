@@ -337,3 +337,9 @@ a {
     }
 }
 
+.blog-title-image {
+    margin: 0 auto;
+    display: block;
+    height: 20rem;
+}
+
