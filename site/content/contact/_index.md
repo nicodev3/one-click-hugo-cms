@@ -1,5 +1,5 @@
 ---
 title: Contact
 description: >-
-  Contact
+  Cabinet de sophrologie de Sophie Looseveldt à Montpellier, informations et contact
 ---
