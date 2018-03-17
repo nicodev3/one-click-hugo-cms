@@ -1,5 +1,5 @@
 ---
-title: Dire oui aux émotions
+title: Dire oui aux emotions
 date: 2018-02-24T13:36:17.464Z
 description: >-
   Apprendre à mieux se connaitre, à savoir qui l’on est vraiment va passer par
@@ -10,6 +10,8 @@ description: >-
   comment ?
 image: /img/zohre-nemati-2.jpg
 ---
+# Dire oui aux émotions
+
 S’il peut nous sembler facile d’accueillir les moments de joie, les bonnes nouvelles, il nous est beaucoup plus difficile d’accueillir une difficulté, un échec, une souffrance ou une émotion désagréable… La première réaction est même plutôt le rejet, et c’est tout à fait compréhensible ! La lutte et la fuite sont les premières réactions déclenchées par notre système d’alarme émotionnel face à une émotion inconfortable. Il fut un temps où notre survie même en dépendait.
 
 Il arrive que nos émotions soient si désagréables que nous préférions ne pas les voir. Nous refusons ce qui est insupportable, nous avons peur de la peur, nous sommes fâché contre notre colère, nous avons honte de notre tristesse. Il peut donc nous sembler plus facile de la nier ou de la rejeter. Et quand nous prenons l’habitude de fonctionner comme ça, de nous fermer et de lutter contre la souffrance, il peut nous sembler que c’est la meilleure ou la seule façon de l’affronter. Or si cette première réponse peut être nécessaire, continuer à refuser nos émotions désagréables peut avoir pour effet de les renforcer. Plus nous nous focalisons sur ce qui n’est pas ici et maintenant, plus la souffrance s’intensifie. Nous débattre et lutter ne peut que rendre la souffrance plus intense. Imaginons que nous soyons emporté par le courant en pleine mer, plus nous luttons, plus nous nous épuisons et finissons par perdre pied… Il en est de même avec les émotions désagréables. Si nous luttons contre elles, elles n’en deviennent que plus envahissantes. L’idée serait donc plutôt de se laisser porter, de ne pas vouloir les chasser ou les supprimer,  mais simplement de les accueillir dans l’instant présent.
