@@ -23,8 +23,9 @@
                     <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Partager</a>
                 </div>
                 <div class="uk-padding-small">
-                    <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
-                    <script type="IN/Share"></script>
+                    <script src="//platform.linkedin.com/in.js"> lang: fr_FR</script>
+                    <script type="IN/Share"
+                            data-url="{{ .Site.BaseURL }}{{ .URL }}"></script>
                 </div>
             </div>
         </div>
