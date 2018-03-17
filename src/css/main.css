@@ -342,3 +342,15 @@ a {
     display: block;
     height: 20rem;
 }
+
+#clicrdv-container {
+    right: 0;
+    top: 10px;
+}
+
+@media (min-width: 960px) {
+    #clicrdv-container {
+        right: 40px;
+        top: 210px;
+    }
+}
