@@ -74,6 +74,11 @@
             <div class="actualites">
                 <h2 class="uk-h2"><span uk-icon="icon: calendar; ratio: 2;"></span> Actualités</h2>
                 <div class="uk-card uk-card-default uk-card-body uk-card-hover uk-margin-bottom">
+                    {{ define "main" }}
+
+                    {{ partial "short-text" .Params.blurb}}
+
+                    {{ end }}
                     <h3 class="uk-h3">Abordez la rentrée sereinement en participant aux ateliers de sophrologie.</h3>
                     <p>Un moment hebdomadaire pour prendre soin de vous, de votre santé et de votre bien être</p>
                     <p>Les ateliers de sophrologie reprennent dès le 17 septembre</p>
