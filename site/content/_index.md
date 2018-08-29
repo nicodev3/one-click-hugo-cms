@@ -6,7 +6,7 @@ blurb:
     votre bien être**.
 
 
-    > Les ateliers reprennent dès le 17 septembre.
+    Les ateliers reprennent dès le 17 septembre.
 
 
     Renseignements et inscriptions dès maintenant par mail ou téléphone.
