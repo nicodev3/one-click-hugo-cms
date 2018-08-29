@@ -1,7 +1,5 @@
 ---
-blurb:
-  actuheading: Abordez la rentrée sereinement en participant aux ateliers de sophrologie !
-  actutext: ''
+actuheading: Abordez la rentrée sereinement en participant aux ateliers de sophrologie !
 ---
 
 Un moment hebdomadaire pour **prendre soin de vous, de votre santé et de votre bien être**.
