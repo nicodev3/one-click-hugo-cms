@@ -22,6 +22,6 @@ collections: # A list of collections the CMS should be able to edit
       label: "Actualités"
       name: "home"
       fields:
-      - {label: "Blurb", name: blurb, widget: object, fields: [
+      - {label: "Contenu Actualités", name: blurb, widget: object, fields: [
         {label: "Heading", name: "actuheading", widget: string},
         {label: "Text", name: "actutext", widget: "markdown"}]}

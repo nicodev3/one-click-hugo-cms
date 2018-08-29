@@ -3,7 +3,7 @@ import React from "react";
 export default class PostPreview extends React.Component {
   render() {
     const {entry} = this.props;
-    
+
     return <div>
 
         <div className="bg-grey-1 pv4">
