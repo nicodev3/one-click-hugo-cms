@@ -1,8 +1,7 @@
 ---
 title: Pour une rentrée sereine...
 date: '2018-09-01T16:09:11+02:00'
-description: |+
-
+description: 
 image: /img/rentrée-sereine.jpg
 ---
 C’est sans doute pour beaucoup d’entre vous la fin des vacances.
