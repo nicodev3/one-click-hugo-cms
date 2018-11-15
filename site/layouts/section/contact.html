@@ -42,7 +42,7 @@
             </div>
             <div>
                 <div class="uk-card uk-card-primary uk-card-body">
-                    <form name="contact" data-netlify="true">
+                    <form name="contact" data-netlify="true" data-netlify-recaptcha>
                         <div class="uk-margin">
                             <label>Nom</label>
                             <input class="uk-input" type="text" name="name" placeholder="Votre nom" required>
@@ -63,13 +63,13 @@
                             <label>Votre message</label>
                             <textarea class="uk-textarea" rows="5" placeholder="Votre message" name="message" required></textarea>
                         </div>
+                        <div class="g-recaptcha" data-sitekey="6Ldp8HoUAAAAAPoC_DCZMklFk0d8-KmgBveeUdTx"></div>
                         <div class="uk-margin">
                             <button type="submit" class="uk-button uk-button-cta">Envoyer</button>
                         </div>
                     </form>
                 </div>
             </div>
-
         </div>
 
         <div class="uk-grid-small uk-margin-bottom uk-child-width-expand@m" uk-grid>
