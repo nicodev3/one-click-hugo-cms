@@ -2,18 +2,8 @@
 blurb:
   actuheading: ''
 ---
-**Abordez la rentrée sereinement en participant aux ateliers de sophrologie! **
+**Le Cabinet sera fermé pour les fêtes de Noël,**
 
-Un moment hebdomadaire pour **prendre soin de vous, de votre santé et de votre bien être,**
+** du jeudi 20 décembre au jeudi 3 janvier 2019.**
 
-en petit groupe, pour favoriser les échanges et la convivialité.
-
-Les ateliers reprennent début octobre, **chaque** **jeudi** :
-
-\- de **10h à 11h15**
-
-\- de **17h à 18h15**
-
-\- de **18h30 à 19h45**
-
-Renseignements et inscriptions dès maintenant par mail ou téléphone.
+_**En vous souhaitant de belle fêtes, et au plaisir de vous retrouver en 2019!**_
