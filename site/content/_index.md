@@ -1,6 +1,6 @@
 ---
 blurb:
-  actuheading: ''
+  actuheading: Fermeture du cabinet pour les fêtes
 ---
 Le Cabinet sera fermé pour les fêtes de Noël,  
 
