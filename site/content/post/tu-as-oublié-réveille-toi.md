@@ -3,7 +3,7 @@ title: Tu as oublié ? Réveille-toi !
 date: '2018-10-08T15:02:10+02:00'
 description: >-
   Merci à Anysou pour ce magnifique poème qui nous invite à ouvrir nos sens et
-  développer notre qualité de présence!  
+  développer notre qualité de présence !
 image: /img/woman-2003647_1920.jpg
 ---
 Ecoute !
