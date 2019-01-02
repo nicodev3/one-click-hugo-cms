@@ -1,11 +1,15 @@
 ---
 blurb:
-  actuheading: Fermeture du cabinet pour les fêtes
+  actuheading: '2019, OSEZ LA SOPHROLOGIE!'
 ---
-Le Cabinet sera fermé pour les fêtes de Noël,  
+Que cette nouvelle année soit pour vous une année d'évolution,
 
-du jeudi 20 décembre au jeudi 3 janvier 2019.
+une année de changement, 
 
-**_En vous souhaitant de passer de très belles fêtes, _**
+en douceur, respectueusement...
 
-**_et au plaisir de vous retrouver en 2019!_**
+une année chaleureuse, lumineuse, audacieuse,
+
+une année de simplicité, de sérénité, de liberté,
+
+une année vers vous même!
