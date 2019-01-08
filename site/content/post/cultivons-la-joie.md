@@ -1,5 +1,5 @@
 ---
-title: Cultivons la JOIE!
+title: Cultivons la JOIE !
 date: '2019-01-07T13:22:52+01:00'
 description: '   « La joie est une puissance, cultivez-la ! » (Le Dalaï Lama)'
 image: /img/photo-1520810627419-35e362c5dc07.jpg
