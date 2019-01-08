@@ -12,6 +12,6 @@ Et si nous restons démunis devant beaucoup de situations, n’oublions pas que 
 
 Invitons la joie dans notre vie, retrouvons cette capacité que nous avions enfant : de voir qu’autour de nous, il y a des choses merveilleuses, des personnes, des actions merveilleuses… sachons voir dans les petits moments du quotidien tous ceux qui nous réjouissent...
 
-Retrouver la capacité à nous émerveiller de ce qui nous entoure, ce n’est pas voir la vie en rose et nier tout le reste. C’est simplement renforcer en nous les ressources qui nous permettent d’aller bien, d’aller de l’avant et de donner du sens à notre vie..
+Retrouver la capacité à nous émerveiller de ce qui nous entoure, ce n’est pas voir la vie en rose et nier tout le reste. C’est simplement renforcer en nous les ressources qui nous permettent d’aller bien, d’aller de l’avant et de donner du sens à notre vie.
 
 Apprenons à cultiver en nous le terreau propice à la joie, en développant une plus grande qualité de conscience, d’attention, de présence, de bienveillance, de gratitude et de lâcher prise…
