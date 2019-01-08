@@ -1,7 +1,9 @@
 ---
 blurb:
-  actuheading: '2019, OSEZ LA SOPHROLOGIE!'
+  actuheading: ''
 ---
+2019, OSEZ LA SOPHROLOGIE!
+
 Que cette nouvelle année soit pour vous une année d'évolution,
 
 une année de changement, 
