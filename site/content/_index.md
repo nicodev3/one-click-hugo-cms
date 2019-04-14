@@ -2,16 +2,10 @@
 blurb:
   actuheading: ''
 ---
-2019, OSEZ LA SOPHROLOGIE!
+** C'est le moment de préparer les examens avec la sophrologie :**
 
-Que cette nouvelle année soit pour vous une année d'évolution,
+**\- apprendre à gérer le stress**
 
-une année de changement, 
+**\- mobiliser ses ressources, mémoire, concentration...**
 
-en douceur, respectueusement...
-
-une année chaleureuse, lumineuse, audacieuse,
-
-une année de simplicité, de sérénité, de liberté,
-
-une année vers vous même!
+**\- développer la confiance en soi**
