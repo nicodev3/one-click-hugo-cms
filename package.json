@@ -53,6 +53,6 @@
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.1",
     "svg-sprite-loader": "^0.1.2",
-    "uikit": "^3.0.0-rc.2"
+    "uikit": "^3.0.3"
   }
 }
