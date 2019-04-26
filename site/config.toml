@@ -1,5 +1,5 @@
 baseurl = "https://sophrologiemontpellierarceaux.fr/"
 languageCode = "fr-FR"
-title = "Homepage"
+title = ""
 
 disableKinds = ["sitemap"]
