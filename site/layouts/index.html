@@ -1,4 +1,50 @@
-{{ partial "head" . }}
+<!doctype html>
+<html lang="fr">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58214610-10"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-58214610-10');
+    </script>
+
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.12';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <title>Sophrologue Montpellier</title>
+    <link rel="stylesheet" href="/css/main.css"/>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="canonical" href="https://sophrologiemontpellierarceaux.fr/">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya|Lato" rel="stylesheet">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#fff">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="sophrologiemontpellierarceaux.fr | sophrologue à Montpellier">
+    <meta property="og:url" content="https://sophrologiemontpellierarceaux.fr">
+    <meta property="og:description" content="Sophie Loosveldt, Sophrologue à Montpellier" />
+    <meta property="og:image" content="https://sophrologiemontpellierarceaux.fr/img/logo.svg" />
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+
+<body>
+<div id="fb-root"></div>
 
 {{ partial "nav" . }}
 
