@@ -1,4 +1,5 @@
 ---
+title: Sophrologue Montpellier
 blurb:
   actuheading: ''
 ---
