@@ -1,5 +1,5 @@
-## C’est le moment de préparer les examens avec la sophrologie :
+C'est la rentrée,
 
-* apprendre à gérer le stress
-* mobiliser ses ressources, mémoire, concentration…
-* développer la confiance en soi
+et la reprise des ateliers de groupe, 
+
+sur le thème de l'équilibre général et la gestion du stress.
