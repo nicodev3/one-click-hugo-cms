@@ -1,5 +1,5 @@
-C'est la rentrée,
+BONNE ANNEE 2020,
 
-et la reprise des ateliers de groupe
+UNE ANNEE DE BELLE RESOLUTIONS, 
 
-sur le thème de l'équilibre général et la gestion du stress.
+D'HARMONIE ET DE PAIX
