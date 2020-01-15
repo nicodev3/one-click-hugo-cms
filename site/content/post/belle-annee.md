@@ -20,8 +20,6 @@ Que mon chez moi soit leur chez eux
 
 Et que mon jardin ait des fleurs bleus...
 
-
-
 Je veux voir le soleil chaque jour
 
 Même à travers les nuages lourds
@@ -38,15 +36,11 @@ Que le chat ronronne sur mes genoux
 
 Et que l'on fasse moins la chasse aux loups...
 
-
-
 Je veux que dure la chaine d'amour en silence
 
 De tous ceux qui font acte de présence
 
 Je veux ce dont le monde entier rêverait!
-
-
 
 Je veux, je veux, pardon! Je voudrais..."
 
