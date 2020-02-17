@@ -1,5 +1,3 @@
-BONNE ANNEE 2020,
+_"Tout le chemin de la vie, c'est de passer de l'inconscience à la conscience, de la peur à l'amour"_
 
-UNE ANNEE DE BELLES RESOLUTIONS,
-
-D'HARMONIE ET DE PAIX
+Frédéric Lenoir
