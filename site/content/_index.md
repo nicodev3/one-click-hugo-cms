@@ -1,11 +1,7 @@
-Afin de soutenir l’effort de chacun en cette période difficile, le Cabinet de Sophrologie sera fermé jusqu’à nouvel ordre.
+**Le Cabinet de Sophrologie ouvre à nouveau ses portes à partir du mardi 12 mai.**
 
-Je reste cependant à votre disposition, et les séances peuvent avoir lieu en télé-consultation pour ceux qui le souhaitent.
+Je me tiens à votre disposition pour la reprise des consultations en présentiel au Cabinet, en vous garantissant le respect des mesures d'hygiène et de prévention.
 
-Prenons soin les uns des autres, cultivons tant que nous pouvons la paix et la sérénité!
+Les séances par télé-consultations seront poursuivies pour ceux qui le souhaitent.
 
-
-
-**_Pour ceux qui souhaiteraient recevoir un peu d'écoute, n'hésitez pas à en faire la demande auprès de professionnels bénévoles :_**
-
-**http://ecoute-empathique.fr/**
+N'hésitez pas à me contacter pour plus de précisions!
