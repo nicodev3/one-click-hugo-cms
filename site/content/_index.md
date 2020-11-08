@@ -1,7 +1,7 @@
-**Le Cabinet de Sophrologie ouvre à nouveau ses portes à partir du mardi 12 mai.**
+Le Cabinet reste ouvert pendant le confinement.
 
-Je me tiens à votre disposition pour la reprise des consultations en présentiel au Cabinet, en vous garantissant le respect des mesures d'hygiène et de prévention.
+Je continue à vous accueillir en séance individuelle, en vous garantissant le respect des mesures sanitaires d'hygiène et de prévention.
 
-Les séances par télé-consultations seront poursuivies pour ceux qui le souhaitent.
+Pour celles et ceux qui le souhaite, l'accompagnement peut se faire en télé-consultation.
 
 N'hésitez pas à me contacter pour plus de précisions!
