@@ -4,4 +4,4 @@ Je continue à vous accueillir en séance individuelle, en vous garantissant le 
 
 Pour celles et ceux qui le souhaite, l'accompagnement peut se faire en télé-consultation.
 
-N'hésitez pas à me contacter pour plus de précisions!
+N'hésitez pas à me contacter pour plus de précisions !
