@@ -1,4 +1,4 @@
-## Le Cabinet reste ouvert pendant le confinement.
+**Le Cabinet reste ouvert pendant le confinement.**
 
 Je continue à vous accueillir en séance individuelle, en vous garantissant le respect des mesures sanitaires d'hygiène et de prévention.
 
