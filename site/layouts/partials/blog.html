@@ -1,6 +1,6 @@
 <div class="last-posts">
     <h2 class="uk-h2"><span uk-icon="icon: file-edit; ratio: 2;"></span> Derniers articles</h2>
-    {{ range where .Data.Pages "Type" "post" }}
+    {{ range first 4 .Data.Pages "Type" "post" }}
     <div class="last-posts__post uk-card uk-card-default uk-card-body uk-card-hover uk-margin-bottom">
         {{ .Render "li" }}
     </div>
