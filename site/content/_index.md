@@ -1,13 +1,3 @@
-Le Cabinet reste ouvert pendant le confinement.
+Le Cabinet de Sophrologie sera fermé pour les fêtes, du 24 décembre au 10 janvier 2021. 
 
-
-
-Je continue à vous accueillir en séance individuelle, en vous garantissant le respect des mesures sanitaires d’hygiène et de prévention.
-
-
-
-Pour celles et ceux qui le souhaite, l’accompagnement peut se faire en télé-consultation.
-
-
-
-N’hésitez pas à me contacter pour plus de précisions !
+En attendant de vous retrouver, je vous souhaite de passer de belles fêtes de fin d'année!
