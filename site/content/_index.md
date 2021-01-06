@@ -1,3 +1,15 @@
-Le Cabinet de Sophrologie sera fermé pour les fêtes, du 24 décembre au 10 janvier 2021. 
+**Je vous souhaite une belle année 2021**
 
-En attendant de vous retrouver, je vous souhaite de passer de belles fêtes de fin d'année!
+Dans la découverte de vous-même,
+
+Joyeux et apaisés,
+
+En amitié avec vos émotions,
+
+Chaque jour plus conscients, 
+
+Attentifs à tous les bons petits moments du quotidien,
+
+Et à l’écoute de votre vie intérieure !
+
+![](/img/soleil.png)
