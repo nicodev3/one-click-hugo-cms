@@ -2,7 +2,7 @@
 
 Dans la découverte de vous-même,
 
-Joyeux et apaisés,
+Heureux et apaisés,
 
 En amitié avec vos émotions,
 
