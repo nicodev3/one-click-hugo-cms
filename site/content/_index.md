@@ -1,15 +1,5 @@
-**Je vous souhaite une belle année 2021**
+**LE CABINET DEMENAGE DANS LES LANDES**
 
-Dans la découverte de vous-même,
+**A PARTIR DU 15 JUILLET 2021**
 
-Heureux et apaisés,
-
-En amitié avec vos émotions,
-
-Chaque jour plus conscients, 
-
-Attentifs à tous les bons petits moments du quotidien,
-
-Et à l’écoute de votre vie intérieure !
-
-![](/img/soleil.png)
+_**Les séances se poursuivent uniquement en visioconférence durant l'été**_
