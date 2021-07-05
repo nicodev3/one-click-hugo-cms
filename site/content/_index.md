@@ -1,5 +1,5 @@
-**LE CABINET DEMENAGE DANS LES LANDES**
+_**LE CABINET DEMENAGE DANS LES LANDES**_
 
-**A PARTIR DU 15 JUILLET 2021**
+_**A PARTIR DU 15 JUILLET 2021**_
 
-_**Les séances se poursuivent uniquement en visioconférence durant l'été**_
+**Les séances se poursuivent uniquement en visioconférence durant l'été**
