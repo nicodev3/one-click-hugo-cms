@@ -44,3 +44,5 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/536d74a7-078e-4540-90e6-1b9d9d62df7f/deploy-status)](https://app.netlify.com/sites/sophieloosveldtsophrologue/deploys)
