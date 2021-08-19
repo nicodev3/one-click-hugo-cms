@@ -45,10 +45,10 @@
                 <div class="uk-card uk-card-primary uk-card-body">
                     <form name="contact"
                           data-netlify="true"
-                          data-netlify-recaptcha
+                          data-netlify-recaptcha="true"
                           netlify-honeypot="bot-field"
                     >
-                        <p class="hidden">
+                        <p class="uk-hidden">
                             <label>Don’t fill this out if you’re human: <input name="bot-field"/></label>
                         </p>
                         <div class="uk-margin">
@@ -71,9 +71,12 @@
                             <label>Votre message</label>
                             <textarea class="uk-textarea" rows="5" placeholder="Votre message" name="message" required></textarea>
                         </div>
-                        <div class="g-recaptcha" data-sitekey="6LcC8A8cAAAAAA3azfiEqbymy3Op_FRJgX685wna"></div>
+                        <div data-netlify-recaptcha="true"></div>
                         <div class="uk-margin">
-                            <button type="submit" class="uk-button uk-button-cta">Envoyer</button>
+                            <button type="submit"
+                                    class="uk-button uk-button-cta"
+                            >
+                                Envoyer</button>
                         </div>
                     </form>
                 </div>
