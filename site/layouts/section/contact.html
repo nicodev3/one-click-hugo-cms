@@ -43,7 +43,14 @@
             </div>
             <div>
                 <div class="uk-card uk-card-primary uk-card-body">
-                    <form name="contact" data-netlify="true" data-netlify-recaptcha>
+                    <form name="contact"
+                          data-netlify="true"
+                          data-netlify-recaptcha
+                          netlify-honeypot="bot-field"
+                    >
+                        <p class="hidden">
+                            <label>Don’t fill this out if you’re human: <input name="bot-field"/></label>
+                        </p>
                         <div class="uk-margin">
                             <label>Nom</label>
                             <input class="uk-input" type="text" name="name" placeholder="Votre nom" required>
