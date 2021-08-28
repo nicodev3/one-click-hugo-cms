@@ -1,4 +1,4 @@
-Le Cabinet de Sophrologie ouvre ses portes à partir du **Lundi 6 Septembre**.
+_Le Cabinet de Sophrologie ouvre ses portes à partir du **Lundi 6 Septembre**._
 
 Je vous y accueille dès à présent en séance individuelle, et très prochainement en atelier de groupe.
 
