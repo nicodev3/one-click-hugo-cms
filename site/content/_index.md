@@ -1,5 +1,5 @@
-_**LE CABINET DEMENAGE DANS LES LANDES**_
+Le Cabinet de Sophrologie ouvre ses portes à partir du **Lundi 6 Septembre**.
 
-_**A PARTIR DU 15 JUILLET 2021**_
+Je vous y accueille dès à présent en séance individuelle, et très prochainement en atelier de groupe.
 
-**Les séances se poursuivent uniquement en visioconférence durant l'été**
+Contactez moi pour plus d'informations!
