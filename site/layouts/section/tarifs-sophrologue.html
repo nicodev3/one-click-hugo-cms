@@ -1,78 +1,88 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
 <section class="uk-section">
-    <div class="uk-container uk-container-small">
-        <div class="ariane uk-padding-remove">
-            <ul class="uk-breadcrumb">
-                <li><a href="/">Accueil</a></li>
-                <li class="uk-disabled"><a href="#">Particuliers</a></li>
-                <li><span>Tarifs sophrologue</span></li>
-            </ul>
-        </div>
-        <header class="uk-section-xsmall">
-            <h1 class="uk-h1">Tarifs sophrologue</h1>
-        </header>
-        <div class="uk-section-xsmall">
-            <h2 class="uk-h2">Les séances individuelles</h2>
-            <table class="uk-table uk-table-striped">
-                <thead>
-                <tr>
-                    <th>Type de séance</th>
-                    <th>Durée</th>
-                    <th>Tarif Séance</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td>Adulte</td>
-                    <td>1 heure</td>
-                    <td>50 €</td>
-                </tr>
-                <tr>
-                    <td>Formule Duo</td>
-                    <td>1 heure</td>
-                    <td>60 €</td>
-                </tr>
-                <tr>
-                    <td>Etudiant, adolescent</td>
-                    <td>1 heure</td>
-                    <td>45 €</td>
-                </tr>
-                <tr>
-                    <td>Demandeur d'emploi, RSA</td>
-                    <td>1 heure</td>
-                    <td>45 €</td>
-                </tr>
-                </tbody>
-                <tfoot>
-                    <td colspan="4"><sup>*</sup> possibilité de paiement en plusieurs fois. Mode de paiement : chèques ou espèces.</td>
-                </tfoot>
-            </table>
-            <h2 class="uk-h2">Les séances de groupe</h2>
-            <table class="uk-table uk-table-striped">
-                <thead>
-                <tr>
-                    <th>Type de module</th>
-                    <th>Durée</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td>Module 12 séances</td>
-                    <td>12 x 1h30</td>
-                </tr>
-                <tr>
-                    <td>Module 15 séances</td>
-                    <td>15 x 1h30</td>
-                </tr>
-                </tbody>
-            </table>
-            <div class="uk-section-xsmall">
-                <p class="uk-alert-warning">Les séances de sophrologie ne sont pas remboursées par la Sécurité Sociale. Renseignez vous auprès de votre mutuelle, complémentaire de santé ou comité d'entreprise pour une prise en charge éventuelle de vos séances.</p>
-            </div>
-            <h2 class="uk-h2">Tarifs entreprises et collectivités</h2>
-            <a href="/contact" class="uk-button uk-button-cta">Me contacter</a>
-        </div>
+  <div class="uk-container uk-container-small">
+    <div class="ariane uk-padding-remove">
+      <ul class="uk-breadcrumb">
+        <li>
+          <a href="/">Accueil</a>
+        </li>
+        <li class="uk-disabled">
+          <a href="#">Particuliers</a>
+        </li>
+        <li>
+          <span>Tarifs sophrologue</span>
+        </li>
+      </ul>
     </div>
+    <header class="uk-section-xsmall">
+      <h1 class="uk-h1">Tarifs sophrologue</h1>
+    </header>
+    <div class="uk-section-xsmall">
+      <h2 class="uk-h2">Les séances individuelles</h2>
+      <table class="uk-table uk-table-striped">
+        <thead>
+        <tr>
+          <th>Type de séance</th>
+          <th>Durée</th>
+          <th>Tarif Séance</th>
+          <th>Forfait</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td>Adulte</td>
+          <td>1 heure</td>
+          <td>50 €</td>
+          <td>450 € les 10 séances <sup>*</sup></td>
+
+        </tr>
+        <tr>
+          <td>Etudiant, adolescent</td>
+          <td>1 heure</td>
+          <td>45 €</td>
+          <td>400 € les 10 séances <sup>*</sup></td>
+        </tr>
+        <tr>
+          <td>Demandeur d'emploi, RSA</td>
+          <td>1 heure</td>
+          <td>45 €</td>
+          <td>-</td>
+        </tr>
+        </tbody>
+        <tfoot>
+        <td colspan="4"><sup>*</sup> possibilité de paiement en plusieurs fois. Mode de paiement : chèques ou espèces.
+        </td>
+        </tfoot>
+      </table>
+      <h2 class="uk-h2">Les séances de groupe</h2>
+      <table class="uk-table uk-table-striped">
+        <thead>
+        <tr>
+          <th>Type de module</th>
+          <th>Durée</th>
+          <th>Tarif Forfait</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td>Module 12 séances</td>
+          <td>12 x 1h30</td>
+          <td>180 € (soit 15 € la séance)</td>
+        </tr>
+        <tr>
+          <td>Module 15 séances</td>
+          <td>15 x 1h30</td>
+          <td>225 € (soit 15 € la séance)</td>
+        </tr>
+        </tbody>
+      </table>
+      <div class="uk-section-xsmall">
+        <p class="uk-alert-warning">Les séances de sophrologie ne sont pas remboursées par la Sécurité Sociale. Renseignez vous auprès de votre mutuelle, complémentaire de santé ou comité d'entreprise pour une prise en charge éventuelle de vos séances.</p>
+      </div>
+      <h2 class="uk-h2">Tarifs entreprises et collectivités</h2>
+      <a href="/contact" class="uk-button uk-button-cta">Me contacter</a>
+    </div>
+  </div>
 </section>
 {{ partial "footer" . }}
