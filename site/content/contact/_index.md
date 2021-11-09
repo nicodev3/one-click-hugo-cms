@@ -1,5 +1,5 @@
 ---
 title: Contact
 description: >-
-  Cabinet de sophrologie de Sophie Looseveldt à Montpellier, informations et contact
+  Cabinet de sophrologie de Sophie Looseveldt à Saint Lon les Mines, informations et contact
 ---
