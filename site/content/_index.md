@@ -1,17 +1,13 @@
-_DEMARRAGE DES ATELIERS DE GROUPE_
+**Le Cabinet de Sophrologie vous souhaite une merveilleuse année _2022_**
 
+**Joie,**
 
+**Douceur,**
 
-_« EQUILIBRE GENERAL ET GESTION DU STRESS »_
+**Epanouissement, **
 
+**Confiance,**
 
+**Sérénité,**
 
-_A partir du 6 décembre 2021_
-
-
-
-\*\*Le lundi de 18h30 à 20h et le mardi de 10h00 à 11h30 \*\*
-
-
-
-Renseignements et inscriptions par téléphone au 06 83 71 10 82
+**et un bel élan pour y contribuer!**
