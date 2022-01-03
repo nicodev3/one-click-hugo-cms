@@ -1,13 +1,7 @@
-**Le Cabinet de Sophrologie vous souhaite une bonne année _2022_**
+_**Le Cabinet de Sophrologie vous souhaite une bonne année 2022, emplie de moments de joie et de douceur, **_
 
-**Joie **
+_**un état de confiance et d'épanouissement, **_
 
-**douceur, **
+_**la paix et la sérénité dans vos coeur,**_
 
-**épanouissement, **
-
-**confiance,**
-
-**sérénité,**
-
-**et un bel élan pour y contribuer!**
+_**et l'élan pour y contribuer!**_
