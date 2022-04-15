@@ -1,6 +1,6 @@
-<div>
+<a href="{{ .Permalink }}" class="tw-text-darker-blue tw-cursor-pointer hover:tw-no-underline hover:tw-text-darker-blue">
 	<h2 class="uk-h3">{{ .Title }}</h2>
-	<p>{{.Date.Format "2 Jan 2006"}}</p>
-	<p>{{ .Description }}</p>
-	<a href="{{ .Permalink }}" class="uk-button uk-button-cta">Lire l'article →</a>
-</div>
+	<p class="tw-text-xs tw-italic">{{.Date.Format "2 Jan 2006"}}</p>
+	<p class="tw-mb-5">{{ .Description }}</p>
+	<span class="uk-button uk-button-cta">Lire l'article →</span>
+</a>

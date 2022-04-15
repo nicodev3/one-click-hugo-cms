@@ -11,6 +11,7 @@ import svgstore from 'gulp-svgstore';
 import svgmin from 'gulp-svgmin';
 import inject from 'gulp-inject';
 import cssnano from 'cssnano';
+import tailwindcss from 'tailwindcss';
 
 const browserSync = BrowserSync.create();
 const hugoBin = `./bin/hugo.${
@@ -34,7 +35,8 @@ gulp.task('css', () =>
     .src('./src/css/*.css')
     .pipe(
       postcss([
-        cssImport({ from: './src/css/main.css' }),
+        cssImport({from: './src/css/main.css'}),
+        tailwindcss(),
         cssnext(),
         cssnano(),
       ]),

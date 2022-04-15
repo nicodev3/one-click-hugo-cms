@@ -1,27 +1,22 @@
-<header>
-    <div class="top-bar-infos">
-        <div class="uk-container">
-            <p>Cabinet de sophrologie</p>
-            <p>Sud des Landes à Saint Lon les Mines, Dax, Bayonne, Peyrehorade</p>
-            <p class="u-italic uk-text-small">Sophrologue FEPS, titre inscrit au RNCP, niveau de qualification reconnu
-                par l'&Eacute;tat</p>
-            <div class="uk-flex uk-flex-around uk-margin-top uk-margin-small-bottom uk-width-1-3@m uk-align-center">
-                <p class="top-bar-infos__phone"><span uk-icon="icon: phone; ratio: 2;"></span>06 83 71 10 82</p>
-            </div>
-            <div class="home-accroche">
-                <p class="uk-text-center uk-text-uppercase uk-padding-small">Mieux se connaitre et développer ses ressources</p>
-            </div>
-            <div id="clicrdv-container" class="uk-flex uk-position-absolute"></div>
+<header class="c-header tw-relative">
+    <div class="tw-text-white tw-bg-dark-blue">
+        <div class="tw-w-3/4 md:tw-w-full tw-flex tw-justify-between tw-flex-col md:tw-flex-row tw-text-white tw-bg-darker-blue tw-font-sans tw-p-1 tw-text-xs">
+            <h1 class="tw-text-white tw-font-sans">{{ .Title }}</h1>
+            <p>Cabinet de sophrologie Sud des Landes à Saint Lon les Mines, Dax, Bayonne, Peyrehorade</p>
         </div>
     </div>
-    <a href="/"><img src="/img/logo.svg" class="g-logo-mobile" alt="logo sophie loosveldt, sophrologue"></a>
     <div class="uk-offcanvas-content">
         <nav class="uk-navbar-container" uk-navbar>
             <div class="uk-navbar-right">
                 <div class="uk-container">
                     <ul class="uk-navbar-nav uk-visible@m">
                         <li>
-                            <a href="/"><img src="/img/logo.svg" class="g-logo" alt="logo sophrologue"></a>
+                            <a href="/">
+                                <img src="/img/logo.svg"
+                                     class="g-logo tw-absolute tw-left-5"
+                                     style="width: 150px;"
+                                     alt="logo sophrologue">
+                            </a>
                         </li>
                         <li>
                             <a href="/sophrologie">La sophrologie</a>
@@ -126,16 +121,13 @@
             </div>
         </div>
     </div>
-    <a uk-navbar-toggle-icon=""
-       href="#"
-       rel="nofollow"
-       uk-toggle="target: #offcanvas-nav"
-       class="c-burger-menu-icon uk-navbar-toggle uk-hidden@m uk-navbar-toggle-icon uk-icon"
-    >
-        <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" ratio="1">
-            <rect y="9" width="20" height="2"></rect>
-            <rect y="3" width="20" height="2"></rect>
-            <rect y="15" width="20" height="2"></rect>
-        </svg>
-    </a>
+    <div class="md:tw-hidden tw-absolute tw-right-0 tw-top-0 tw-bg-white">
+        <a uk-navbar-toggle-icon
+           href="#"
+           rel="nofollow"
+           uk-toggle="target: #offcanvas-nav"
+           class="uk-navbar-toggle"
+        >
+        </a>
+    </div>
 </header>

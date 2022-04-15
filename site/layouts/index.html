@@ -42,13 +42,11 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
-
 <body>
 <div id="fb-root"></div>
-
 {{ partial "nav" . }}
-
-<div uk-slideshow="animation: push" autoplay="true" autoplay-interval="3500" pause-on-hover="false" max-height="450">
+{{ partial "slogan" . }}
+<aside uk-slideshow="animation: push" autoplay="true" autoplay-interval="3500" pause-on-hover="false" max-height="450">
     <div class="uk-position-relative uk-visible-toggle uk-light" id="carousel">
         <ul class="uk-slideshow-items">
             <li>
@@ -103,10 +101,10 @@
         <li uk-slideshow-item="5"><a href="#">Item 6</a></li>
     </ul>
 
-</div>
-<div class="uk-container uk-container-expand home-container">
+</aside>
+<main class="uk-container uk-container-expand home-container">
     <div uk-grid>
-        <main class="uk-width-3-5@m home-main-content" id="scroll_to_1">
+        <article class="uk-width-3-5@m home-main-content" id="scroll_to_1">
             <h1 class="uk-h1">Sophrologue à Saint Lon les Mines, entre Dax, Bayonne et Peyrehorade</h1>
             <p>Installée au coeur du Centre Médical Sérapéion, au sein d'une équipe pluridisciplinaire, Sophie Loosveldt,
                 Sophrologue, vous propose une approche sérieuse, adaptée à vos besoins, pour améliorer votre qualité de
@@ -115,18 +113,16 @@
                 positif, plus serein..."</p>
 
             {{ partial "home-main" . }}
-        </main>
+        </article>
         <aside class="uk-width-2-5@m">
             <div class="actualites">
-                <h2 class="uk-h2"><span uk-icon="icon: calendar; ratio: 2;"></span> Actualités</h2>
-                <div class="uk-card uk-card-default uk-card-body uk-card-hover uk-margin-bottom">
-
-                    <h3 class="uk-h3">{{ .Params.actuheading }}</h3>
+                <h2 class="uk-h2 tw-flex tw-items-center"><span uk-icon="icon: calendar; ratio: 2;" class="tw-mr-4"></span> Actualités</h2>
+                <div class="tw-p-5 tw-mb-5 tw-shadow-lg c-wysiwyg">
                     {{ .Content }}
                 </div>
             </div>
             {{ partial "blog" . }}
         </aside>
     </div>
-</div>
+</main>
 {{ partial "footer" . }}
