@@ -212,18 +212,6 @@ a {
   background-color: var(--color-light-yellow);
 }
 
-
-.g-footer-sponsors {
-  background-color: var(--color-light-blue);
-  padding: 1rem 0;
-  height: 4rem;
-}
-
-.g-footer-sponsors img {
-  max-width: 100%;
-  height: 4rem;
-}
-
 .g-footer-copy {
   background-color: transparent;
 
