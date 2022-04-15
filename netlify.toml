@@ -3,6 +3,7 @@
   publish = "dist"
 
 [build.environment]
+  NODE_VERSION = "16.14.2"
   NPM_VERSION = "8.5.0"
 
 [context.deploy-preview]
