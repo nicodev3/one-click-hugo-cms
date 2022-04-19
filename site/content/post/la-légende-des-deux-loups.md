@@ -24,6 +24,6 @@ Le vieux Cherokee répondit simplement :  Celui que tu nourris. »
 
 
 
-**Cette fameuse fable amérindienne illustre bien les émotions qui nous habitent et qui sont au cœur de nos fonctionnements… **
+**Cette fameuse fable amérindienne illustre bien les émotions qui nous habitent et qui sont au cœur de nos fonctionnements…**
 
 **Cela rejoint toute l’importance de la démarche sophrologique : devenir plus conscient de nos émotions pour ne pas les subir, apprendre à mieux nous connaitre pour savoir quel loup nous avons envie de nourrir, et ainsi nous sentir plus libre !**

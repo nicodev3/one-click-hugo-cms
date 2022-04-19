@@ -258,11 +258,18 @@ a {
   }
 }
 
-.c-wysiwyg ul li {
+.c-wysiwyg ul li,
+.cms ul li {
   list-style-type: disc;
   margin-left: 1rem;
 }
 
-.c-wysiwyg p {
+.c-wysiwyg p,
+.cms p {
   margin-bottom: 16px;
+}
+
+.c-wysiwyg strong,
+.cms strong {
+  font-weight: 700;
 }
