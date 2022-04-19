@@ -1,5 +1,5 @@
 <div class="last-posts">
-    <h2 class="uk-h2 tw-flex tw-items-center"><span uk-icon="icon: file-edit; ratio: 2;" class="tw-mr-4"></span> Derniers articles</h2>
+    <h2 class="tw-bg-white tw-p-3 tw-rounded tw-border tw-border-blue tw-text-xl tw-flex tw-items-center tw-flex tw-items-center"><span uk-icon="icon: file-edit; ratio: 2;" class="tw-mr-4"></span> Derniers articles</h2>
     {{ range first 4 .Data.Pages }}
     <div class="last-posts__post uk-card uk-card-default uk-card-body uk-card-hover uk-margin-bottom">
         {{ .Render "li" }}
