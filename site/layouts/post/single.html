@@ -1,9 +1,9 @@
 {{ partial "head" . }}
-{{ partial "nav" . }}
+{{ partial "navblog" . }}
 <main>
   <article class="uk-section">
     <div class="uk-container uk-container-small">
-      <h2 class="uk-h1">{{ .Title }}</h2>
+      <h1 class="uk-h1">{{ .Title }}</h1>
       <div class="flex justify-between grey-3">
         <p>{{ .Date.Format "2 Jan 2006" }}</p>
       </div>
