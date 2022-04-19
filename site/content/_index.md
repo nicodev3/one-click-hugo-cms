@@ -2,8 +2,12 @@
 title: Sophrologue à Saint Lon les Mines
 ---
 
-**Le Cabinet de Sophrologie vous souhaite une bonne année 2022, emplie de moments de joie et de douceur, _**
+**C'est la période des examens!**
 
-- un état de confiance et d'épanouissement, 
-- la paix et la sérénité dans vos coeurs,
-- et l'élan pour y contribuer!
+**_Pensez à la sophrologie_ _pour vous aider à vous préparer_** :
+
+\- développer vos capacités de concentration et d'apprentissage
+
+\- apprendre à gérer efficacement son stress
+
+\- optimiser ses ressources et la confiance en soi
