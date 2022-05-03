@@ -238,19 +238,6 @@ a {
   height: 20rem;
 }
 
-#clicrdv-container {
-  left: 0;
-  top: 30px;
-}
-
-@media (min-width: 960px) {
-  #clicrdv-container {
-    left: auto;
-    right: 40px;
-    top: 210px;
-  }
-}
-
 .c-wysiwyg ul li,
 .cms ul li {
   list-style-type: disc;
