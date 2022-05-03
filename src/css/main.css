@@ -17,6 +17,10 @@ html {
   color: #1e2532;
 }
 
+.uk-navbar-toggle {
+  min-height: 55px;
+}
+
 .uk-section {
   background: url("/img/sunset.jpg") no-repeat 0 0 / cover;
 }
