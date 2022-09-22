@@ -1,17 +1,15 @@
-**J’espère que vous avez passé un bel été, et qu'il a été pour vous l'occasion de ralentir et vous ressourcer.**
+DEMARRAGE DE L'ATELIER DE SOPHROLOGIE 
 
-**Cela malgré les imprévus, les contretemps et peut être aussi les évènements d'une période estivale qui a été assez anxiogène.**
+à partir du 11 octobre 2022
 
-_La sophrologie peut vous aider à vivre mieux, à vous sentir plus équilibré, mieux armé pour faire face aux difficultés du quotidien._
+\- Un moment pour se détendre et prendre soin de soi
 
-_C’est peut-être pour vous le moment de démarrer cette rentrée sur de belles bases en prenant soin de vous et de vos besoins : apprendre à faire face au stress, faire la paix avec ses émotions, retrouver un sommeil de qualité, améliorer votre confiance en vous…_
+\- Un atelier en petit groupe, pour favoriser les échanges et la confidentialité
 
-_L’accompagnement en individuel vous permet d’avancer à votre rythme, en fonction de vos besoins._
+\- Un apprentissage et des changements respectueux du rythme de chacun(e)
 
-_Les ateliers de groupe* sont une occasion de s’enrichir de l’expérience des autres, des temps d’échanges et de partage._
+\- Des pratiques et des outils transformateurs et mobilisateurs
 
-\*Les ateliers autour de la gestion du stress reprendront à partir du mois d’octobre.
 
-# 
 
-**Prenez contact avec moi pour plus d’informations, ou prenez rdv directement sur le site. **
+![](/img/atelier-sophro.png)
