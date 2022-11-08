@@ -1,13 +1,15 @@
----
-title: Sophrologue à Saint Lon les Mines
----
+DEMARRAGE DE L'ATELIER DE SOPHROLOGIE 
 
-**C'est la période des examens!**
+à partir du 11 octobre 2022
 
-**_Pensez à la sophrologie_ _pour vous aider à vous préparer_** :
+\- Un moment pour se détendre et prendre soin de soi
 
-- développer vos capacités de concentration et d'apprentissage
+\- Un atelier en petit groupe, pour favoriser les échanges et la confidentialité
 
-- apprendre à gérer efficacement son stress
+\- Un apprentissage et des changements respectueux du rythme de chacun(e)
 
-- optimiser ses ressources et la confiance en soi
+\- Des pratiques et des outils transformateurs et mobilisateurs
+
+
+
+![](/img/atelier-sophro.png)
