@@ -1,1 +1,1 @@
-![](/img/atelier-relaxation.png)
+![](/img/congés-sophie-loosveldt.png)
