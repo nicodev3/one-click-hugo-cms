@@ -1,5 +1,5 @@
 ---
-title: Vivre sereinement la reprise...
+title: Accueillir joyeusement la reprise
 date: '2023-09-01T10:48:25+02:00'
 description: >-
   L’arrivée de septembre signe pour la plupart d’entre nous la reprise du
