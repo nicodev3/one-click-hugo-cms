@@ -1,1 +1,1 @@
-![](/img/congés-sophie-loosveldt.png)
+![](/img/bienvenue-septembre.png)
