@@ -1,1 +1,5 @@
-![](/img/actus-cabinet-31.10.png)
+Je vous souhaite une bonne année, 
+
+dans l'accueil de tout vos belles ressources, présentes et à venir...
+
+![](/img/bonne-année.jpg)
