@@ -1,3 +1,3 @@
-Formée à l'accompagnement des douleurs chroniques et de la santé de la femme, je vous accompagne lors d’ateliers de groupe ou en séance individuelle, au Cabinet ou en visioconférence, à mieux gérer vos douleurs et à vous réconcilier avec votre corps pour retrouver énergie et bien être au quotidien. 
+Prochainement, démarrage d'un atelier de sophrologie en groupe 
 
-![](/img/sophie-loosveldt-sophrologie-et-endométriose.jpg)
+![Renseignements et inscriptions par téléphone ou par mail : sophieloosveldt-sophrologue@orange.fr : 06.83.71.10.82](/img/annonce-atelier-douleurs-chroniques-janv.24-3-.png)
