@@ -2,10 +2,10 @@
 
 **3 dates pour expérimenter et découvrir la sophrologie en groupe,15€ l'atelier:**
 
-_\* MARDI 16 MARS à 9h30_
+_\* MARDI 16 AVRIL à 9h30_
 
-_\* JEUDI 18 MARS à 17H30_
+_\* JEUDI 18 AVRIL à 17H30_
 
-_\* LUNDI 22 MARS à 18H_
+_\* LUNDI 22 AVRIL à 18H_
 
 **Sur inscription préalable au** **06 83 71 10 82**
