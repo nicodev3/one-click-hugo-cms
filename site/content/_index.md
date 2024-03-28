@@ -1,6 +1,6 @@
 **MIEUX GERER LES DOULEURS CHRONIQUES**
 
-**3 dates pour expérimenter et découvrir la sophrologie en groupe:**
+**3 dates pour expérimenter et découvrir la sophrologie en groupe,15€ l'atelier:**
 
 _\* MARDI 16 MARS à 9h30_
 
